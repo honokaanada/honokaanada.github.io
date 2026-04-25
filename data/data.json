@@ -1,0 +1,144 @@
+{
+    "bio": {
+        "short": "Ph.D. Student, The University of Tokyo",
+        "long": "I am a Ph.D. student at the <a target=\"_blank\" href=\"https://www.is.s.u-tokyo.ac.jp/\">Department of Computer Science</a>, <a target=\"_blank\" href=\"https://www.u-tokyo.ac.jp/en/index.html\">The University of Tokyo</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a>. I am also a part-time researcher at <a target=\"_blank\" href=\"https://aip.riken.jp/labs/phys_intel/ai_computing/\">AI Computing Team</a>, <a target=\"_blank\" href=\"https://aip.riken.jp/\">RIKEN AIP</a>. My research interests include distributed machine learning systems, particularly federated learning under communication and computation constraints."
+    },
+    "news": [
+        "<b>June 2026</b>: Presenting a paper at  <a target=\"_blank\" href=\"https://www.ipsj.or.jp/kenkyukai/event/arc257.html\">HotSPA 2026</a>."
+    ],
+    "education": [
+        {
+            "title": "Ph.D. in Computer Science (<i>in progress</i>)",
+            "location": "The University of Tokyo",
+            "period": "Apr. 2024 - present",
+            "details": [
+                "<b>Supervisor</b>: <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a> [<a target=\"_blank\" href=\"https://sites.google.com/view/casys/\">lab website</a>]"
+            ]
+        },
+        {
+            "title": "M.S. in Computer Science (<i>in progress</i>)",
+            "location": "The University of Tokyo",
+            "period": "Apr. 2024 - present",
+            "details": [
+                "<b>Supervisor</b>: <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a> [<a target=\"_blank\" href=\"https://sites.google.com/view/casys/\">lab website</a>]",
+                "<b>Master thesis</b>: \"Measuring Participant Contributions in Decentralized Federated Learning\" (非中央集権型連合学習における参加者貢献度の評価手法)"
+            ]
+        },
+        {
+            "title": "B.S. in Information Science",
+            "location": "The University of Tokyo",
+            "period": "Apr. 2020 - Mar. 2024",
+            "details": [
+                "<b>Supervisor</b>: <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a>",
+                "<b>Senior thesis</b>: \"Hardware-Efficient Transfer Learning via Lightweight Edge-Popup Algorithm\" (軽量Edge-Popupアルゴリズムによるハードウェア効率の高い転移学習)"
+            ]
+        }
+    ],
+    "publications": {
+        "journal": [
+            {
+                "authors": "<u>H. Anada</u>, S. Ryu, M. Usui, T. Kaneko, and S. Takamaeda-Yamazaki",
+                "title": "\"PRIOT: Pruning-Based Integer-Only Transfer Learning for Embedded Systems\"",
+                "venue":"<i>IEEE Embedded Systems Letters</i>, vol. 17, no. 2, pp. 87--90",
+                "date": "2025",
+                "misc": "[<a target=\"_blank\" href=\"https://ieeexplore.ieee.org/document/10729874\">IEEE Xplore</a>] [<a target=\"_blank\" href=\"https://arxiv.org/abs/2503.16860\">arXiv</a>]"
+            }
+        ],
+        "domestic": [
+            {
+                "authors": "<u>穴田 穂乃香</u>, 劉 世芾, 金子 竜也, 高前田 伸也",
+                "title": "\"軽量Edge-Popupアルゴリズムによるハードウェア効率の高い転移学習\"",
+                "venue": "<a target=\"_blank\" href=\"https://www-alg.ist.hokudai.ac.jp/~atsu/forest_workshop_2024.html\">フォレストワークショップ2024</a>",
+                "date": "2024年3月",
+                "misc": "<b>[poster, non-refereed]</b>"
+            },
+            {
+                "authors": "<u>H. Anada</u>, S. Ryu, T. Kaneko, and S. Takamaeda-Yamazaki",
+                "title": "\"Edge-Popup Algorithm with Sparsely Assigned Scores for Hardware-Efficient Transfer Learning\"",
+                "venue":"<a target=\"_blank\" href=\"https://xsig.ipsj.or.jp/2024/\">The 6th Cross-Disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2024)</a>",
+                "date": "August 2024",
+                "misc": "<b>[oral, peer-reviewed]</b>"
+            },
+            {
+                "authors": "<u>穴田 穂乃香</u>, 金子 竜也, 高前田 伸也",
+                "title": "\"非中央集権型連合学習における参加者貢献度の評価手法\"",
+                "venue": "<a target=\"_blank\" href=\"https://sig-fpai.org/past/fpai132.html\">第132回人工知能基本問題研究会 (SIG-FPAI)</a>",
+                "date": "2025年3月",
+                "misc": "<b>[oral, non-refereed]</b>"
+            },
+            {
+                "authors": "<u>穴田 穂乃香</u>, 金子 竜也, 高前田 伸也",
+                "title": "\"非中央集権型連合学習における参加者貢献度の評価手法\"",
+                "venue":"<a target=\"_blank\" href=\"https://xsig.ipsj.or.jp/2025/\">The 7th Cross-Disciplinary Workshop on Computing Systems, Infrastructures, and Programming (xSIG 2025)</a>",
+                "date": "2025年8月",
+                "misc": "<b>[poster, non-refereed]</b>"
+            },
+            {
+                "authors": "<u>穴田 穂乃香</u>, 金子 竜也, 高前田 伸也",
+                "title": "\"非中央集権型連合学習における参加者貢献度の評価手法\"",
+                "venue":"<a target=\"_blank\" href=\"https://ibisml.org/ibis2025/\">第28回情報論的学習理論ワークショップ (IBIS2025)</a>",
+                "date": "2025年11月",
+                "misc": "<b>[poster, non-refereed]</b>"
+            }
+        ],
+        "preprint": [
+            {
+                "authors": "<u>H. Anada</u>, T. Kaneko, and S. Takamaeda-Yamazaki",
+                "title": "\"How to Evaluate Participant Contributions in Decentralized Federated Learning\"",
+                "venue":"<a target=\"_blank\" href=\"https://arxiv.org/abs/2505.23246\">arXiv:2505.23246</a>",
+                "date": "2025"
+            }
+        ],
+        "award": [
+            {
+                "authors": "<u>Honoka Anada</u>",
+                "title": "IEEE Computer Society Japan Chapter xSIG Young Researcher Award",
+                "venue":"<a target=\"_blank\" href=\"https://xsig.ipsj.or.jp/2024/\">xSIG 2024</a>",
+                "date": "August 2024"
+            }
+        ]
+    },
+    "workExperience": [
+        {
+            "title": "Part-time Software Engineer",
+            "location": "Fixstars Corporation",
+            "period": "Oct. 2023 - Present",
+            "details": [
+                "<b>Apr 2025 -- Present</b>: Optimization of CUDA applications.",
+                "<b>Oct 2023 -- Mar 2025</b>: Development and research assitance on various topics about deep learning on edge devices."
+            ]
+        },
+        {
+            "title": "Research and Development Intern",
+            "location": "Preferred Networks, Inc.",
+            "period": "Aug. 2024 - Sep. 2024",
+            "details": [
+                "Research and development of LLM fine-tuning technique using knowledge distillation."
+            ]
+        },
+        {
+            "title": "Software Engineering Intern",
+            "location": "Fixstars Corporation",
+            "period": "Sep. 2023",
+            "details": [
+                "Investigated internal implementation of PyTorch."
+            ]
+        },
+        {
+            "title": "Software Engineering (SWE) Intern",
+            "location": "Google",
+            "period": "Aug. 2022 - Sep. 2022",
+            "details": [
+                "Developed a new feature in the memory allocator for Chrome browser."
+            ]
+        },
+        {
+            "title": "STEP Intern",
+            "location": "Google",
+            "period": "Jul. 2021 - Sep. 2021",
+            "details": [
+                "Developed a new feature in a phone app for Android devices."
+            ]
+        }
+    ]
+}

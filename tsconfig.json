@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES2019",
+    "lib": ["ES2019", "DOM"], // Added ESNext for latest features
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true,
+    "skipLibCheck": true,
+    "typeRoots": ["node_modules/@types", "./node_modules/typescript/lib"] // Ensure the right libraries are picked up
+  }
+}
