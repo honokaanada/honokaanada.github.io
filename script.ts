@@ -33,7 +33,7 @@ class TimelineItem implements Item {
     }
 }
 
-type PublicationType = "journal" | "domestic" | "award";
+type PublicationType = "journal" | "domestic" | "preprint" | "award";
 
 class PublicationItem implements Item {
     constructor(
@@ -113,7 +113,7 @@ function loadDataFromJson(): void {
             });
             
             // Populate publications section
-            const publicationTypes: PublicationType[] = ["journal", "domestic", "award"];
+            const publicationTypes: PublicationType[] = ["journal", "domestic", "preprint", "award"];
             for (const publicationType of publicationTypes) {
                 const publicationsList = document.getElementById(publicationType + "-list") as HTMLElement;
                 data.publications[publicationType].forEach(item => {
