@@ -1,16 +1,14 @@
 {
     "bio": {
-        "short": "Ph.D. Student, The University of Tokyo",
-        "long": "I am a Ph.D. student at the <a target=\"_blank\" href=\"https://www.is.s.u-tokyo.ac.jp/\">Department of Computer Science</a>, <a target=\"_blank\" href=\"https://www.u-tokyo.ac.jp/en/index.html\">The University of Tokyo</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a>. I am also a part-time researcher at <a target=\"_blank\" href=\"https://aip.riken.jp/labs/phys_intel/ai_computing/\">AI Computing Team</a>, <a target=\"_blank\" href=\"https://aip.riken.jp/\">RIKEN AIP</a>. My research interests include distributed machine learning systems, particularly federated learning under communication and computation constraints."
+        "short": "PhD Student at The University of Tokyo",
+        "long": "I am a PhD student at the <a target=\"_blank\" href=\"https://www.is.s.u-tokyo.ac.jp/\">Department of Computer Science</a>, <a target=\"_blank\" href=\"https://www.u-tokyo.ac.jp/en/index.html\">The University of Tokyo</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a>. From August to December 2026, I am a visiting research student at <a target=\"_blank\" href=\"https://www.ntu.edu.sg/\">Nanyang Technological University (NTU)</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/view/wyb\">Prof. Wei Yang Bryan Lim</a>. I am also a part-time researcher at the <a target=\"_blank\" href=\"https://aip.riken.jp/labs/phys_intel/ai_computing/\">AI Computing Team</a>, <a target=\"_blank\" href=\"https://aip.riken.jp/\">RIKEN AIP</a>. My research interests include distributed machine learning systems, particularly federated learning under communication and computation constraints."
     },
-    "news": [
-        "<b>June 2026</b>: Presenting a paper at  <a target=\"_blank\" href=\"https://www.ipsj.or.jp/kenkyukai/event/arc257.html\">HotSPA 2026</a>."
-    ],
+    "news": [],
     "education": [
         {
             "title": "Ph.D. in Computer Science (<i>in progress</i>)",
             "location": "The University of Tokyo",
-            "period": "Apr. 2024 - present",
+            "period": "Apr. 2026 - present",
             "details": [
                 "<b>Supervisor</b>: <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a> [<a target=\"_blank\" href=\"https://sites.google.com/view/casys/\">lab website</a>]"
             ]
@@ -18,7 +16,7 @@
         {
             "title": "M.S. in Computer Science (<i>in progress</i>)",
             "location": "The University of Tokyo",
-            "period": "Apr. 2024 - present",
+            "period": "Apr. 2024 - Mar. 2026",
             "details": [
                 "<b>Supervisor</b>: <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a> [<a target=\"_blank\" href=\"https://sites.google.com/view/casys/\">lab website</a>]",
                 "<b>Master thesis</b>: \"Measuring Participant Contributions in Decentralized Federated Learning\" (非中央集権型連合学習における参加者貢献度の評価手法)"
@@ -79,6 +77,13 @@
                 "venue":"<a target=\"_blank\" href=\"https://ibisml.org/ibis2025/\">第28回情報論的学習理論ワークショップ (IBIS2025)</a>",
                 "date": "2025年11月",
                 "misc": "<b>[poster, non-refereed]</b>"
+            },   
+            {
+                "authors": "<u>穴田 穂乃香</u>, 欧 亜非, 高前田 伸也",
+                "title": "\"連合学習における学習時間短縮のための学習量と通信圧縮率の統合的最適化\"",
+                "venue":"<a target=\"_blank\" href=\"https://www.ipsj.or.jp/kenkyukai/event/arc257.html\">第257回システム・アーキテクチャ研究発表会 (HotSPA2026)</a>",
+                "date": "2026年6月",
+                "misc": "<b>[oral, non-refereed]</b>"
             }
         ],
         "preprint": [
@@ -95,6 +100,12 @@
                 "title": "IEEE Computer Society Japan Chapter xSIG Young Researcher Award",
                 "venue":"<a target=\"_blank\" href=\"https://xsig.ipsj.or.jp/2024/\">xSIG 2024</a>",
                 "date": "August 2024"
+            },
+            {
+                "authors": "<u>穴田 穂乃香</u>",
+                "title": "電子情報通信学会コンピュータシステム研究会優秀若手発表賞",
+                "venue":"<a target=\"_blank\" href=\"https://www.ipsj.or.jp/kenkyukai/event/arc257.html\">第257回システム・アーキテクチャ研究発表会 (HotSPA2026)</a>",
+                "date": "2026年6月"
             }
         ]
     },
