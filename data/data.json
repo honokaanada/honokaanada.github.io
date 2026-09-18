@@ -1,7 +1,7 @@
 {
     "bio": {
         "short": "PhD Student at The University of Tokyo",
-        "long": "I am a PhD student at the <a target=\"_blank\" href=\"https://www.is.s.u-tokyo.ac.jp/\">Department of Computer Science</a>, <a target=\"_blank\" href=\"https://www.u-tokyo.ac.jp/en/index.html\">The University of Tokyo</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a>. From August to December 2026, I am a visiting research student at <a target=\"_blank\" href=\"https://www.ntu.edu.sg/\">Nanyang Technological University (NTU)</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/view/wyb\">Prof. Wei Yang Bryan Lim</a>. I am also a part-time researcher at the <a target=\"_blank\" href=\"https://aip.riken.jp/labs/phys_intel/ai_computing/\">AI Computing Team</a>, <a target=\"_blank\" href=\"https://aip.riken.jp/\">RIKEN AIP</a>. My research interests include distributed machine learning systems, particularly federated learning under communication and computation constraints."
+        "long": "I am a PhD student at the <a target=\"_blank\" href=\"https://www.is.s.u-tokyo.ac.jp/\">Department of Computer Science</a>, <a target=\"_blank\" href=\"https://www.u-tokyo.ac.jp/en/index.html\">The University of Tokyo</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a>. From August to December 2026, I am a visiting research student at <a target=\"_blank\" href=\"https://www.ntu.edu.sg/\">Nanyang Technological University (NTU)</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/view/wyb\">Prof. Wei Yang Bryan Lim</a>. I am also a part-time researcher at the <a target=\"_blank\" href=\"https://aip.riken.jp/labs/phys_intel/ai_computing/\">AI Computing Team</a>, <a target=\"_blank\" href=\"https://aip.riken.jp/\">RIKEN AIP</a>."
     },
     "news": [],
     "education": [
@@ -40,6 +40,15 @@
                 "venue":"<i>IEEE Embedded Systems Letters</i>, vol. 17, no. 2, pp. 87--90",
                 "date": "2025",
                 "misc": "[<a target=\"_blank\" href=\"https://ieeexplore.ieee.org/document/10729874\">IEEE Xplore</a>] [<a target=\"_blank\" href=\"https://arxiv.org/abs/2503.16860\">arXiv</a>]"
+            }
+        ],
+        "conference": [
+            {
+                "authors": "<u>H. Anada</u>, Y. Ou, and S. Takamaeda-Yamazaki",
+                "title": "\"TALLOP: Joint Optimization of Local Training and Communication Compression for Time-Constrained Federated Learning\"",
+                "venue":"<i>The 32nd IEEE International Conference on Parallel and Distributed Systems (ICPADS 2026)</i>",
+                "date": "accepted, 2026",
+                "misc": "[to be presented]"
             }
         ],
         "domestic": [
@@ -113,9 +122,9 @@
         {
             "title": "Part-time Software Engineer",
             "location": "Fixstars Corporation",
-            "period": "Oct. 2023 - Present",
+            "period": "Oct. 2023 - Jun. 2026",
             "details": [
-                "<b>Apr 2025 -- Present</b>: Optimization of CUDA applications.",
+                "<b>Apr 2025 -- Jun. 2026</b>: Optimization of CUDA applications.",
                 "<b>Oct 2023 -- Mar 2025</b>: Development and research assitance on various topics about deep learning on edge devices."
             ]
         },

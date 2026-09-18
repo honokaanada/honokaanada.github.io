@@ -89,7 +89,7 @@ function loadDataFromJson() {
             educationList.appendChild(eduItem);
         });
         // Populate publications section
-        const publicationTypes = ["journal", "domestic", "preprint", "award"];
+        const publicationTypes = ["journal", "conference", "domestic", "preprint", "award"];
         for (const publicationType of publicationTypes) {
             const publicationsList = document.getElementById(publicationType + "-list");
             data.publications[publicationType].forEach(item => {
