@@ -4,8 +4,8 @@
         "long": "I am a PhD student at the <a target=\"_blank\" href=\"https://www.is.s.u-tokyo.ac.jp/\">Department of Computer Science</a>, <a target=\"_blank\" href=\"https://www.u-tokyo.ac.jp/en/index.html\">The University of Tokyo</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/site/shinyaty/home\">Prof. Shinya Takamaeda-Yamazaki</a>. From August to December 2026, I am a visiting research student at <a target=\"_blank\" href=\"https://www.ntu.edu.sg/\">Nanyang Technological University (NTU)</a>, advised by <a target=\"_blank\" href=\"https://sites.google.com/view/wyb\">Prof. Wei Yang Bryan Lim</a>. I am also a part-time researcher at the <a target=\"_blank\" href=\"https://aip.riken.jp/labs/phys_intel/ai_computing/\">AI Computing Team</a>, <a target=\"_blank\" href=\"https://aip.riken.jp/\">RIKEN AIP</a>."
     },
     "news": [
-        "Oct. 2026: I will present our work \"TRIP-Shapley: Propagation-Aware Contribution Attribution Framework for Peer-to-Peer Federated Learning\" at <a target=\"_blank\" href=\"https://www.acml-conf.org/2026/\">ACML 2026</a>. See you soon in Melbourne!",
-        "Sep. 2026: I will present our work \"TALLOP: Joint Optimization of Local Training and Communication Compression for Time-Constrained Federated Learning\" at <a target=\"_blank\" href=\"https://www.cloud-conf.net/icpads2026/\">ICPADS 2026</a>. See you soon in Tokyo!"
+        "<b>Oct. 2026:</b> I will present our work <a target=\"_blank\" href=\"https://arxiv.org/abs/2505.23246v3\">\"TRIP-Shapley: Propagation-Aware Contribution Attribution Framework for Peer-to-Peer Federated Learning\"</a> at <a target=\"_blank\" href=\"https://www.acml-conf.org/2026/\">ACML 2026</a>. See you soon in Melbourne! Paper is now available on <a target=\"_blank\" href=\"https://arxiv.org/abs/2505.23246v3\">arXiv</a>.",
+        "<b>Sep. 2026:</b> I will present our work <a target=\"_blank\" href=\"https://arxiv.org/abs/2610.22996\">\"TALLOP: Joint Optimization of Local Training and Communication Compression for Time-Constrained Federated Learning\"</a> at <a target=\"_blank\" href=\"https://www.cloud-conf.net/icpads2026/\">ICPADS 2026</a>. See you soon in Tokyo! Paper is now available on <a target=\"_blank\" href=\"https://arxiv.org/abs/2610.22996\">arXiv</a>."
     ],
     "education": [
         {
@@ -49,7 +49,7 @@
                 "title": "\"TRIP-Shapley: Propagation-Aware Contribution Attribution Framework for Peer-to-Peer Federated Learning\"",
                 "venue": "<i>Springer Nature Machine Learning</i> (18th Asian Conference on Machine Learning (ACML 2026) Journal Track), accepted",
                 "date": "2026",
-                "misc": "[to be published]"
+                "misc": "[<a target=\"_blank\" href=\"https://arxiv.org/abs/2505.23246v3\">arXiv</a>]"
             }
         ],
         "conference": [
@@ -58,7 +58,7 @@
                 "title": "\"TALLOP: Joint Optimization of Local Training and Communication Compression for Time-Constrained Federated Learning\"",
                 "venue":"<i>The 32nd IEEE International Conference on Parallel and Distributed Systems (ICPADS 2026)</i>, accepted",
                 "date": "2026",
-                "misc": "[to be presented]"
+                "misc": "[<a target=\"_blank\" href=\"https://arxiv.org/abs/2610.22996\">arXiv</a>]"
             }
         ],
         "domestic": [
@@ -107,15 +107,15 @@
         ],
         "preprint": [
             {
-                "authors": "<u>H. Anada</u>, T. Kaneko, and S. Takamaeda-Yamazaki",
-                "title": "\"How to Evaluate Participant Contributions in Decentralized Federated Learning\"",
-                "venue":"<a target=\"_blank\" href=\"https://arxiv.org/abs/2505.23246\">arXiv:2505.23246</a>",
-                "date": "2025"
-            },
-            {
                 "authors": "M. Nakada, <u>H. Anada</u>, T. Kaneko, H. Nakamura, S. Takamaeda-Yamazaki, and H. Takase",
                 "title": "\"CARVY-FL: Client Anticlustering for Robust Voting in Provably Secure Federated Learning\"",
                 "venue":"<a target=\"_blank\" href=\"https://arxiv.org/abs/2608.28992\">arXiv:2608.28992</a>",
+                "date": "2026"
+            },
+            {
+                "authors": "Z. Gong, Z. Zeng, T. Wang, <u>H. Anada</u>, Z. Wang, M. Xiao, C. Yuen, and W. Y. B. Lim",
+                "title": "\"CoCurve: Cross-Module Co-Pruning Curvature for Structured LLM Pruning\"",
+                "venue":"<a target=\"_blank\" href=\"https://arxiv.org/abs/2607.17568v2\">arXiv:2607.17568</a>",
                 "date": "2026"
             }
         ],
